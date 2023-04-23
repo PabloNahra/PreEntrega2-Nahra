@@ -46,6 +46,11 @@
     margin-left: 10px;
 }
 
+/* PSEUDOCLASES*/
+.escalar:hover{
+    transform: scale(1.2);
+}
+
 /* MAIN */
 .main-principal{
     /* background-image: url('../images/fondo-lunares.jfif'); */
