@@ -111,6 +111,15 @@
     margin: 5px;
 }
 
+.artesanias{
+    justify-content: space-around;
+}
+.artesanias img{
+    max-height: 50vh;
+    max-width: 75vh;
+    margin: 5px;
+}
+
 
 /* FOOTER */
 .footer{
