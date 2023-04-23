@@ -102,6 +102,14 @@
     justify-content: space-around;
 }
 
+.productos{
+    justify-content: space-around;
+}
+.productos img{
+    max-height: 25vh;
+    max-width: 25vh;
+    margin: 5px;
+}
 
 
 /* FOOTER */
