@@ -2,3 +2,26 @@
     margin:0;
     padding: 0;
 }
+
+.header{
+    /* background-image: url('../images/fondo-rectangulares.jfif'); */
+    background-color: black !important;
+}
+
+
+.lista-pages li a{
+    color: #ff086b;
+    text-decoration: none;
+    background-color: black !important;
+}
+
+/* links de header selector etiqueta*/
+.header nav ul li{
+    display: inline-block;
+    font-size: x-large;
+    font-weight: bold;
+    font-family: 'Delicious Handrawn', cursive, 'Gill Sans', 'Gill Sans MT';
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
